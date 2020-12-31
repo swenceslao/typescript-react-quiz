@@ -1,3 +1,7 @@
+# Learning about TypeScript from YouTube
+Link to YouTube tutorial: `https://youtu.be/F2JCjVSZlG0`
+
+----------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
